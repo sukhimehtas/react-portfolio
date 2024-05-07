@@ -1,50 +1,43 @@
 import projectOne from "../assets/project-1.png";
 import projectTwo from "../assets/project-2.png";
-import projectThree from "../assets/project-3.png";
+import projectThree from "../assets/project-3.jpg";
 
 const projects = {
   1: {
-    title: "SoMe Platform",
+    title: "Gym Management System",
     image: projectOne,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Tools Used : Javascript , PHP , SQL , HTML & CSS
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/sukhimehtas/Gym-Management-System.git",
   },
   2: {
-    title: "Productivity App",
+    title: "ATILQ mart Sales Analysis",
     image: projectTwo,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          In progress
         </p>
       </>
     ),
     github: "https://github.com",
-    demo: "https://netlify.com",
   },
-  3: {
-    title: "Food Delivery App",
+   3:{
+    title: "XYZ",
     image: projectThree,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+SOON !
         </p>
       </>
     ),
     github: "https://github.com",
-    demo: "https://netlify.com",
   },
 };
-
 export default projects;
