@@ -58,7 +58,7 @@ Hello! I'm Sukhdev Kumar Mehta, a Data Analyst with a passion for Turning Data i
       content: (
         <>
           <p>
-          worked on SOA ( Statement of Account) Project which was related to database management
+          worked on SOA ( Statement of Account) Project related to database management Systems where i manipulated Raw Data using tools like Excel and SQL 
           </p>
         </>
       ),
